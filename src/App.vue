@@ -11,7 +11,6 @@
       <!-- 顶部信息 -->
       <div class="header">
         <h1>新年种树</h1>
-        <h2>妈的我没调好，请不要重复点击行动按钮</h2>
         <div class="user-info">
           <span>{{ currentUser }}的树</span>
           <span class="day-info">第{{ day }}/7天</span>
